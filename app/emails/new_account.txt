@@ -1,0 +1,27 @@
+Hello,
+
+Thank you for choosing to try out our monitoring service. Please ensure you have read and accept the following key points before using this beta service:
+ - You may NOT use this service on production servers, or any server with important data
+ - This free beta may be revoked at any time and monitoring data destroyed
+ - You may receive large numbers of false positive emails
+
+That aside, I hope you enjoy the beta. It's "rough and ready" at the moment but new features are being added regularly.
+
+You have been assigned an account with the following details:
+Login URL: __URL__/clients/login
+Username: __EMAIL__
+Password: __PASSWORD__
+Max servers: __SERVERS__
+
+Note that we will likely increase your server limit during the beta. The limit is small now to load test the platform.
+
+If you have any feedback, PLEASE submit it - it will help make the service much better: http://community.loadingdeck.com/forum/monitoring. The following additions are currently planned:
+ - Predicted metrics
+ - Application response time monitoring+intelligence
+ - Panic mode
+ - API and/or public stats
+ - Alert rules
+
+Best regards,
+
+Loading Deck
